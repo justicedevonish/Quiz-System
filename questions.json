@@ -1,0 +1,92 @@
+[
+    {
+        "question": "What is the output of print(2 ** 3)?",
+        "options": [
+            {"option": "6", "isCorrect": false},
+            {"option": "8", "isCorrect": true},
+            {"option": "9", "isCorrect": false},
+            {"option": "12", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which of the following is a mutable data type in Python?",
+        "options": [
+            {"option": "tuple", "isCorrect": false},
+            {"option": "list", "isCorrect": true},
+            {"option": "string", "isCorrect": false},
+            {"option": "int", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "What does the 'len' function do?",
+        "options": [
+            {"option": "Returns the length of an object", "isCorrect": true},
+            {"option": "Returns the type of an object", "isCorrect": false},
+            {"option": "Returns the value of an object", "isCorrect": false},
+            {"option": "Returns the id of an object", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which keyword is used to create a function in Python?",
+        "options": [
+            {"option": "func", "isCorrect": false},
+            {"option": "def", "isCorrect": true},
+            {"option": "function", "isCorrect": false},
+            {"option": "lambda", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "How do you insert COMMENTS in Python code?",
+        "options": [
+            {"option": "//", "isCorrect": false},
+            {"option": "#", "isCorrect": true},
+            {"option": "/* */", "isCorrect": false},
+            {"option": "<!-- -->", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which method can be used to remove any whitespace from both the beginning and the end of a string?",
+        "options": [
+            {"option": "strip()", "isCorrect": true},
+            {"option": "trim()", "isCorrect": false},
+            {"option": "len()", "isCorrect": false},
+            {"option": "split()", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "What is the correct file extension for Python files?",
+        "options": [
+            {"option": ".py", "isCorrect": true},
+            {"option": ".python", "isCorrect": false},
+            {"option": ".pt", "isCorrect": false},
+            {"option": ".pyt", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which of the following is used to define a block of code in Python?",
+        "options": [
+            {"option": "Curly braces", "isCorrect": false},
+            {"option": "Parentheses", "isCorrect": false},
+            {"option": "Indentation", "isCorrect": true},
+            {"option": "Square brackets", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "How do you create a variable with the numeric value 5?",
+        "options": [
+            {"option": "x = 5", "isCorrect": true},
+            {"option": "x == 5", "isCorrect": false},
+            {"option": "x := 5", "isCorrect": false},
+            {"option": "x equals 5", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which of the following functions can be used to read a line of input from the user in Python?",
+        "options": [
+            {"option": "input()", "isCorrect": true},
+            {"option": "read()", "isCorrect": false},
+            {"option": "scan()", "isCorrect": false},
+            {"option": "get()", "isCorrect": false}
+        ]
+    }
+]
