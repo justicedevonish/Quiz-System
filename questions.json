@@ -88,5 +88,275 @@
             {"option": "scan()", "isCorrect": false},
             {"option": "get()", "isCorrect": false}
         ]
-    }
+},
+{
+    "question": "What is the output of print(10 // 3)?",
+    "options": [
+        {"option": "3", "isCorrect": true},
+        {"option": "3.33", "isCorrect": false},
+        {"option": "4", "isCorrect": false},
+        {"option": "3.0", "isCorrect": false}
+    ]
+},
+{
+    "question": "Which of the following is a keyword in Python?",
+    "options": [
+        {"option": "eval", "isCorrect": false},
+        {"option": "assert", "isCorrect": true},
+        {"option": "factor", "isCorrect": false},
+        {"option": "lambda", "isCorrect": true}
+    ]
+},
+{
+    "question": "What is the output of print(type([]))?",
+    "options": [
+        {"option": "<class 'list'>", "isCorrect": true},
+        {"option": "<class 'tuple'>", "isCorrect": false},
+        {"option": "<class 'dict'>", "isCorrect": false},
+        {"option": "<class 'set'>", "isCorrect": false}
+    ]
+},
+{
+    "question": "Which of the following is not a valid variable name in Python?",
+    "options": [
+        {"option": "my_var", "isCorrect": false},
+        {"option": "2nd_var", "isCorrect": true},
+        {"option": "var2", "isCorrect": false},
+        {"option": "_var", "isCorrect": false}
+    ]
+},
+{
+    "question": "What is the output of print(3 * '7')?",
+    "options": [
+        {"option": "777", "isCorrect": true},
+        {"option": "21", "isCorrect": false},
+        {"option": "Error", "isCorrect": false},
+        {"option": "7777", "isCorrect": false}
+    ]
+},
+{
+    "question": "Which of the following is used to create an empty set in Python?",
+    "options": [
+        {"option": "{}", "isCorrect": false},
+        {"option": "set()", "isCorrect": true},
+        {"option": "[]", "isCorrect": false},
+        {"option": "()", "isCorrect": false}
+    ]
+},
+{
+    "question": "Which of the following is not a core data type in Python?",
+    "options": [
+        {"option": "Lists", "isCorrect": false},
+        {"option": "Dictionary", "isCorrect": false},
+        {"option": "Tuples", "isCorrect": false},
+        {"option": "Class", "isCorrect": true}
+    ]
+},
+{
+    "question": "What is the output of print(2 + 3 * 4)?",
+    "options": [
+        {"option": "14", "isCorrect": true},
+        {"option": "20", "isCorrect": false},
+        {"option": "24", "isCorrect": false},
+        {"option": "9", "isCorrect": false}
+    ]
+},
+{
+    "question": "Which of the following is the correct way to open a file for reading in Python?",
+    "options": [
+        {"option": "open('file.txt', 'r')", "isCorrect": true},
+        {"option": "open('file.txt', 'w')", "isCorrect": false},
+        {"option": "open('file.txt', 'rw')", "isCorrect": false},
+        {"option": "open('file.txt')", "isCorrect": false}
+    ]
+},
+{
+    "question": "Which of the following is not a valid Python data type?",
+    "options": [
+        {"option": "int", "isCorrect": false},
+        {"option": "float", "isCorrect": false},
+        {"option": "real", "isCorrect": true},
+        {"option": "complex", "isCorrect": false}
+    ]
+},
+{
+    "question": "What is the output of print('Hello' + 'World')?",
+    "options": [
+        {"option": "HelloWorld", "isCorrect": true},
+        {"option": "Hello World", "isCorrect": false},
+        {"option": "Hello+World", "isCorrect": false},
+        {"option": "Error", "isCorrect": false}
+    ]
+},
+{
+    "question": "Which of the following is used to define a class in Python?",
+    "options": [
+        {"option": "class", "isCorrect": true},
+        {"option": "def", "isCorrect": false},
+        {"option": "function", "isCorrect": false},
+        {"option": "method", "isCorrect": false}
+    ]
+},
+{
+    "question": "What is the output of print(10 % 3)?",
+    "options": [
+        {"option": "1", "isCorrect": true},
+        {"option": "3", "isCorrect": false},
+        {"option": "0", "isCorrect": false},
+        {"option": "10", "isCorrect": false}
+    ]
+},
+{
+    "question": "Which of the following is not a valid Python operator?",
+    "options": [
+        {"option": "//", "isCorrect": false},
+        {"option": "**", "isCorrect": false},
+        {"option": "<<<", "isCorrect": true},
+        {"option": "in", "isCorrect": false}
+    ]
+},
+{
+    "question": "What is the output of print('Python'.lower())?",
+    "options": [
+        {"option": "python", "isCorrect": true},
+        {"option": "PYTHON", "isCorrect": false},
+        {"option": "Python", "isCorrect": false},
+        {"option": "pYTHON", "isCorrect": false}
+    ]
+},
+{
+    "question": "Which of the following is used to handle exceptions in Python?",
+    "options": [
+        {"option": "try", "isCorrect": true},
+        {"option": "catch", "isCorrect": false},
+        {"option": "throw", "isCorrect": false},
+        {"option": "except", "isCorrect": true}
+    ]
+},
+{
+    "question": "What is the output of print(2 ** 2 ** 3)?",
+    "options": [
+        {"option": "256", "isCorrect": true},
+        {"option": "64", "isCorrect": false},
+        {"option": "512", "isCorrect": false},
+        {"option": "128", "isCorrect": false}
+    ]
+},
+{
+    "question": "Which of the following is not a valid Python loop?",
+    "options": [
+        {"option": "for", "isCorrect": false},
+        {"option": "while", "isCorrect": false},
+        {"option": "do-while", "isCorrect": true},
+        {"option": "loop", "isCorrect": true}
+    ]
+},
+{
+    "question": "What is the output of print('Hello' * 3)?",
+    "options": [
+        {"option": "HelloHelloHello", "isCorrect": true},
+        {"option": "Hello3", "isCorrect": false},
+        {"option": "3Hello", "isCorrect": false},
+        {"option": "Error", "isCorrect": false}
+    ]
+},
+{
+    "question": "Which of the following is used to create an anonymous function in Python?",
+    "options": [
+        {"option": "lambda", "isCorrect": true},
+        {"option": "def", "isCorrect": false},
+        {"option": "function", "isCorrect": false},
+        {"option": "anonymous", "isCorrect": false}
+    ]
+},
+{
+    "question": "What is the output of print(10 / 3)?",
+    "options": [
+        {"option": "3.3333333333333335", "isCorrect": true},
+        {"option": "3", "isCorrect": false},
+        {"option": "3.33", "isCorrect": false},
+        {"option": "3.0", "isCorrect": false}
+    ]
+},
+{
+    "question": "Which of the following is not a valid Python string method?",
+    "options": [
+        {"option": "upper()", "isCorrect": false},
+        {"option": "lower()", "isCorrect": false},
+        {"option": "split()", "isCorrect": false},
+        {"option": "trim()", "isCorrect": true}
+    ]
+},
+{
+    "question": "What is the output of print(10 > 5)?",
+    "options": [
+        {"option": "True", "isCorrect": true},
+        {"option": "False", "isCorrect": false},
+        {"option": "Error", "isCorrect": false},
+        {"option": "None", "isCorrect": false}
+    ]
+},
+{
+    "question": "Which of the following is used to create a dictionary in Python?",
+    "options": [
+        {"option": "{}", "isCorrect": true},
+        {"option": "[]", "isCorrect": false},
+        {"option": "()", "isCorrect": false},
+        {"option": "set()", "isCorrect": false}
+    ]
+},
+{
+    "question": "What is the output of print(10 == 10)?",
+    "options": [
+        {"option": "True", "isCorrect": true},
+        {"option": "False", "isCorrect": false},
+        {"option": "Error", "isCorrect": false},
+        {"option": "None", "isCorrect": false}
+    ]
+},
+{
+    "question": "Which of the following is not a valid Python comparison operator?",
+    "options": [
+        {"option": "==", "isCorrect": false},
+        {"option": "!=", "isCorrect": false},
+        {"option": "<>", "isCorrect": true},
+        {"option": "<=", "isCorrect": false}
+    ]
+},
+{
+    "question": "What is the output of print('Python'.upper())?",
+    "options": [
+        {"option": "PYTHON", "isCorrect": true},
+        {"option": "python", "isCorrect": false},
+        {"option": "Python", "isCorrect": false},
+        {"option": "pYTHON", "isCorrect": false}
+    ]
+},
+{
+    "question": "Which of the following is used to import a module in Python?",
+    "options": [
+        {"option": "import", "isCorrect": true},
+        {"option": "include", "isCorrect": false},
+        {"option": "require", "isCorrect": false},
+        {"option": "using", "isCorrect": false}
+    ]
+},
+{
+    "question": "What is the output of print(10 != 5)?",
+    "options": [
+        {"option": "True", "isCorrect": true},
+        {"option": "False", "isCorrect": false},
+        {"option": "Error", "isCorrect": false},
+        {"option": "None", "isCorrect": false}
+    ]
+},
+{
+    "question": "Which of the following is not a valid Python logical operator?",
+    "options": [
+        {"option": "and", "isCorrect": false},
+        {"option": "or", "isCorrect": false},
+        {"option": "not", "isCorrect": false},
+        {"option": "xor", "isCorrect": true}
+    ]
+}
 ]
